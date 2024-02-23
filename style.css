@@ -17,15 +17,17 @@ body {
   justify-content: space-between;
   align-items: center;
   z-index: 1;
-  background: linear-gradient(40deg, blue, white)
+  background: linear-gradient(40deg, blue, white);
 }
 
 .navbar-links {
-  color: white;
+  color: blue;
   text-decoration: none;
 }
 
 .navbar-logo {
-  font-size: 32px;
+  font-size: 24px;
+  font-weight: 700;
   color: white;
+  text-decoration: none;
 }
