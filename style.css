@@ -25,6 +25,7 @@ body {
 .navbar-links {
   color: blue;
   text-decoration: none;
+  margin-left: 20px;
 }
 
 .navbar-logo {
