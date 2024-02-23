@@ -2,10 +2,12 @@
   font-family: "Segoe UI";
 }
 
+body {
+  margin: 0 0 0 0;
+}
 
 .navbar {
   background-color: blue;
-  margin: 0 0 0 0;
   height: 56px;
 }
 
@@ -15,5 +17,5 @@
 }
 
 .navbar-header {
-  color: white
+  color: white;
 }
