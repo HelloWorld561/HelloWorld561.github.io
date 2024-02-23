@@ -36,6 +36,6 @@ body {
 }
 
 main {
-  position: absolute;
+  position: relative;
   top: 52px;
 }
