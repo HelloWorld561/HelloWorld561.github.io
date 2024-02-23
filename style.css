@@ -9,15 +9,15 @@ body {
 
 .navbar {
   position: fixed;
-  left: 0;
   top: 0;
+  left: 0;
   width: 100%;
+  padding: 20px 100px;
+  background: linear-gradient(40deg, blue, white);
   display: flex;
   justify-content: space-between;
   align-items: center;
   z-index: 1;
-  background: linear-gradient(40deg, blue, white);
-  padding: 20px 100px;
 }
 
 .navbar-links {
