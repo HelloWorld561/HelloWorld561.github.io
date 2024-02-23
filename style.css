@@ -21,7 +21,12 @@ body {
   background: linear-gradient(40deg, blue, white)
 }
 
-.navbar-link {
+.navbar-links {
   color: white;
   text-decoration: none;
+}
+
+.navbar-logo {
+  font-size: 32px;
+  color: white;
 }
