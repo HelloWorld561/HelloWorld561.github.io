@@ -18,5 +18,10 @@ body {
   justify-content: space-between;
   align-items: center;
   z-index: 1;
-  background: linear-gradient(40deg, blue, black)
+  background: linear-gradient(40deg, blue, white)
+}
+
+.navbar-link {
+  color: white;
+  text-decoration: none;
 }
