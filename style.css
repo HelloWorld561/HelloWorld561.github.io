@@ -1,3 +1,14 @@
 * {
   font-family: "Segoe UI";
 }
+
+
+.navbar {
+  background-color: blue;
+}
+
+
+.navbar-links {
+  color: white;
+}
+
